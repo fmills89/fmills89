@@ -1,4 +1,4 @@
-### Hi there, I'm Forrest. 👋  I'm a full-stack developer that recently gradudated from University of Texas at San Antonio's bootcamp!
+### 👋  Hi there, I'm Forrest. I'm a full-stack developer that recently gradudated from University of Texas at San Antonio's bootcamp!
 
 My goal is to create mobile-friendly, reliable, and capable applications.
 
