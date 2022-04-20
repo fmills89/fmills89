@@ -2,8 +2,9 @@
 
 My goal is to create mobile-friendly, reliable, and capable applications.
 
-- 🔭 I’m currently working honing my skills!
-- 🧠 I’m currently learning the MERN Stack!
+- 🔭 Always learning!
+- 🌱 Currently learning Java!
+- 🧠 Recently learned the MERN Stack!
 - 💬 Ask me about anything.
 - 📫 How to reach me: 
     - 📧 Email: <a href="mailto:mills_forrest@yahoo.com">mills_forrest@yahoo.com</a>
