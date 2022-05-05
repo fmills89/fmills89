@@ -3,7 +3,7 @@
 My goal is to create mobile-friendly, reliable, and capable applications.
 
 - 🔭 Always learning!
-- 🌱 Currently learning Java!
+- 🌱 Currently learning React Native!
 - 🧠 Recently learned the MERN Stack!
 - 💬 Ask me about anything.
 - 📫 How to reach me: 
